@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 你可以叫我费冰
+- 我目前还是大学生，就读于南京工程学院
+- 最近正在学习大数据，复习相关只是
+- 我正寻找一份南京的实习
