@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 
 - 我目前在Java领域学习，正在寻找工作
 - 关注大数据，云原生
 - 我喜欢平静的生活
